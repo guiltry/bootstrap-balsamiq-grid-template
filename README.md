@@ -1,6 +1,6 @@
 # Bootstrap Balsamiq Grid Template
 Balsamiq provide bootstrap template, you can check it [here](https://mockupstogo.mybalsamiq.com/projects/layout/Bootstrap+Grid+Layout), but they are using wrong calculation or it's not updated with new bootstrap.
-
+Oh, don't foget to read their [tutorial](http://support.balsamiq.com/customer/portal/articles/615901), it's very helpful.
 
 ![Bootstrap Grid Option](https://cloud.githubusercontent.com/assets/1484308/7337922/0312b1c4-ec65-11e4-90e8-9a7255744a1b.png)
 
