@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" measuredW="1001" measuredH="795" mockupW="941" mockupH="775">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="941" h="775" measuredW="941" measuredH="775" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Column</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="162" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="242" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="323" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="404" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="486" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="567" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="648" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="728" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="809" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="890" y="0" w="51" h="775" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderColor>10066329</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+            <markup>true</markup>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
