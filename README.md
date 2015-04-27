@@ -5,7 +5,7 @@ Oh, don't foget to read their [tutorial](http://support.balsamiq.com/customer/po
 ![Bootstrap Grid Option](https://cloud.githubusercontent.com/assets/1484308/7337922/0312b1c4-ec65-11e4-90e8-9a7255744a1b.png)
 
 # Preview
-![LG Grid](https://cloud.githubusercontent.com/assets/1484308/7337899/5f534ae4-ec64-11e4-8aa9-3c32845bdedf.png)
-![MD Grid](https://cloud.githubusercontent.com/assets/1484308/7337898/5f50a690-ec64-11e4-9680-a300c9c8ee55.png)
-![SM Grid](https://cloud.githubusercontent.com/assets/1484308/7337897/5f4e5390-ec64-11e4-824f-7099932a9c8d.png)
-![XS Grid](https://cloud.githubusercontent.com/assets/1484308/7337896/5f4aaae2-ec64-11e4-94d2-b5c3fb5370d1.png)
+![LG](https://cloud.githubusercontent.com/assets/1484308/7354335/1102a8da-ed45-11e4-9a17-2f66cb3bbe4e.png)
+![MD](https://cloud.githubusercontent.com/assets/1484308/7354336/1104b396-ed45-11e4-9cf1-2b81638439d3.png)
+![SM](https://cloud.githubusercontent.com/assets/1484308/7354338/110aaed6-ed45-11e4-8ff2-2b5d395fb6b1.png)
+![XS](https://cloud.githubusercontent.com/assets/1484308/7354337/1104cd68-ed45-11e4-9021-86e85fb687e9.png)
