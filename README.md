@@ -8,4 +8,4 @@ Oh, don't foget to read their [tutorial](http://support.balsamiq.com/customer/po
 ![LG](https://cloud.githubusercontent.com/assets/1484308/7354335/1102a8da-ed45-11e4-9a17-2f66cb3bbe4e.png)
 ![MD](https://cloud.githubusercontent.com/assets/1484308/7354336/1104b396-ed45-11e4-9cf1-2b81638439d3.png)
 ![SM](https://cloud.githubusercontent.com/assets/1484308/7354338/110aaed6-ed45-11e4-8ff2-2b5d395fb6b1.png)
-![XS](https://cloud.githubusercontent.com/assets/1484308/7354460/d4acf0b0-ed45-11e4-91f8-3804ca392b15.png)
+![XS](https://cloud.githubusercontent.com/assets/1484308/7354763/c7c27ecc-ed47-11e4-920d-929837aefe07.png)
